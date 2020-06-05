@@ -92,4 +92,17 @@ The type of debugging you don't do for fun
 - [Node.js at Uber (youtube conference)](https://youtu.be/ElI5QtUISWM?t=8m20s)
 - [Designing (architecturally speaking) very large applications (Google) (text article + video)](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 
+-----------------------
+
+## Des recherches et resolutions
+
+### Génération de PDF - 05/06/2020
+### Chrome-headless 
+- https://www.npmjs.com/package/chrome-headless-render-pdf
+
+
+
+
+
+
 
